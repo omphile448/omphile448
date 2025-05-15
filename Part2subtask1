@@ -1,0 +1,54 @@
+# Morse Code Research
+
+## 📘 What is Morse Code?
+
+Morse code is a method of communication that uses a series of dots (.) and dashes (-) to represent letters, numbers, and punctuation marks. It was originally developed for sending messages over long distances using telegraph systems and can also be transmitted via sound, light, or visual signals.
+
+---
+
+## 🕰️ History of Morse Code
+
+Morse code was developed in the early 1830s and 1840s by **Samuel Morse** and **Alfred Vail**. It was designed as a way to communicate over the telegraph, an early form of long-distance electronic communication. The first successful Morse code message was sent in 1844 between Washington, D.C., and Baltimore, Maryland, reading: “What hath God wrought?”
+
+Morse code played a critical role in early radio communication, military operations, and maritime distress signals (e.g., SOS).
+
+---
+
+## ⚙️ How Morse Code Works
+
+Each letter of the alphabet, as well as numbers and some punctuation marks, is represented by a unique combination of dots and dashes:
+
+- A dot is a short signal (e.g., a quick beep or flash).
+- A dash is a longer signal (e.g., a longer beep or flash).
+
+Letters are separated by spaces, and words are separated by slashes or double spaces.
+
+### Example Characters:
+| Character | Morse Code |
+|-----------|------------|
+| A         | .-         |
+| B         | -...       |
+| C         | -.-.       |
+| 1         | .----      |
+| 2         | ..---      |
+| 0         | -----      |
+
+---
+
+## 📝 Examples of Translated Words
+
+- **HELLO** → `.... . .-.. .-.. ---`
+- **CODE** → `-.-. --- -.. .`
+- **MORSE** → `-- --- .-. ... .`
+
+---
+
+## 📚 References
+
+(Include your sources here. Example below:)
+
+- [Wikipedia: Morse Code](https://en.wikipedia.org/wiki/Morse_code)
+- [Morse Code Translator Tool](https://morsecode.world/international/translator.html)
+
+---
+
